@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "wzLoIvKZsk+KDTGkke9dRPCV1KN10M+Q1wqvppe85ShLbEVfVoSgmC4rIhyaCUHEqEHwFmTxNLBAq+feAVNRyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luanr\\Documents\\Luan\\Cursos\\DigitalInovationOnne\\API\\DIO.Series.Web\\DIO.Series.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luanr\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\luanr\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\luanr\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\luanr\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\luanr\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\luanr\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
